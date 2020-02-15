@@ -1,0 +1,23 @@
+{
+  "name": "igscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "followers.js",
+  "scripts": {
+    "start": "node followers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaszubski/igScraper.git"
+  },
+  "author": "get401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaszubski/igScraper/issues"
+  },
+  "homepage": "https://github.com/kaszubski/igScraper#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
